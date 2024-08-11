@@ -1,6 +1,6 @@
 # carevalidate-cypress-tests
 
-This repository contains automated end-to-end (E2E) tests using Cypress that performs login, navigate to new requests, submit a new request and confirm that the request is shown in the my requests page.
+This repository contains automated end-to-end (E2E) tests using Cypress that performs actions - login, navigate to new requests, submit a new request and confirm that the request is shown in the my requests page.
 
 ## Project Setup
 
